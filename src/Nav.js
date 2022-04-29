@@ -24,11 +24,12 @@ function Nav() {
         className="nav__logo" 
         src="https://upload.wikimedia.org/wikipedia/commons/3/34/Red_star.svg" 
         alt="Logo"></img>
-
+        <a href="https://ublockorigin.com/">
         <img 
         className="nav__avatar" 
-        src="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" 
+        src="https://ublockorigin.com/img/uBlock-Origin.svg" 
         alt="Logo"></img>
+        </a>
     </div>
   )
 }
