@@ -1,0 +1,22 @@
+.nav {
+    height: 0px;
+}
+
+.nav__black {
+    background-color: #111;
+}
+
+
+.nav__logo {
+    position: fixed;
+    left: 20px;
+    width: 80px;
+    object-fit: contain;
+}
+
+.nav__avatar {
+    position: fixed;
+    right: 20px;
+    width: 80px;
+    object-fit: contain;
+}
