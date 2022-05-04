@@ -27,7 +27,7 @@ function Nav() {
         <a href="https://ublockorigin.com/">
         <img 
         className="nav__avatar" 
-        src="https://ublockorigin.com/img/uBlock-Origin.svg" 
+        src="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" 
         alt="Logo"></img>
         </a>
     </div>
