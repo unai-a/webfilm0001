@@ -4,7 +4,7 @@ import './Row.css';
 import { useNavigate } from 'react-router-dom';
 
 const base_url = "https://image.tmdb.org/t/p/original/"
-const film_url = "https://www.2embed.cc/embed/tmdb/movie?id="
+const film_url = "https://www.2embed.cc/embed/"
 
     function Row({ title, fetchUrl, isLargeRow }) {
         const [movies, setMovies] = useState([]);
